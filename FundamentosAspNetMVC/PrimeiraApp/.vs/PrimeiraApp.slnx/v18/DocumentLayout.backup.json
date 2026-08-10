@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|d:\\desenvolvimento\\formacaoaspnetdevio\\fundamentosaspnetmvc\\primeiraapp\\controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|solutionrelative:controllers\\alunoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|d:\\desenvolvimento\\formacaoaspnetdevio\\fundamentosaspnetmvc\\primeiraapp\\views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|solutionrelative:views\\alunos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|d:\\desenvolvimento\\formacaoaspnetdevio\\fundamentosaspnetmvc\\primeiraapp\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|solutionrelative:models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|d:\\desenvolvimento\\formacaoaspnetdevio\\fundamentosaspnetmvc\\primeiraapp\\views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|solutionrelative:views\\alunos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|d:\\desenvolvimento\\formacaoaspnetdevio\\fundamentosaspnetmvc\\primeiraapp\\views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBC2AB19-2114-036B-0FB3-9CF11EEA7CF6}|PrimeiraApp.csproj|solutionrelative:views\\alunos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Views\\Alunos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\Edit.cshtml",
+              "ToolTip": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Views\\Alunos\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T08:24:38.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Views\\Alunos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\Create.cshtml",
+              "ToolTip": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Views\\Alunos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T08:24:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Views\\Alunos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alunos\\Index.cshtml",
+              "ToolTip": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Views\\Alunos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Alunos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-08-10T08:23:13.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "Models\\Aluno.cs",
+              "ToolTip": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Models\\Aluno.cs",
+              "RelativeToolTip": "Models\\Aluno.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA9wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T08:23:05.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlunosController.cs",
+              "DocumentMoniker": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Controllers\\AlunosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlunosController.cs",
+              "ToolTip": "D:\\Desenvolvimento\\FormacaoAspNetDevIo\\FundamentosAspNetMVC\\PrimeiraApp\\Controllers\\AlunosController.cs",
+              "RelativeToolTip": "Controllers\\AlunosController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAuwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-10T08:22:58.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
