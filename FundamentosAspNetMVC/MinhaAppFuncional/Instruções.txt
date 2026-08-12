@@ -1,0 +1,9 @@
+Criando projeto, padrão desenvolvedor.io.
+
+1. Criar solution vazia
+2. Criar pastas no path da Solution (src, docs, testes)
+3. Add projeto a solution:
+	3. ASP.NET Identity (middleware de Autenticação e Autorização)
+		- Autenticação: tem permissão para acessar?
+		- Autorização: tem permissão criar, editar, deletar, visualizar detalhes, imprimir?
+		
