@@ -1,0 +1,17 @@
+<Solution>
+  <Folder Name="/0 - Presentation/">
+    <Project Path="ProjetoModeloDDD.MVC/ProjetoModeloDDD.MVC.csproj" Id="4baaa926-3338-47ef-9f43-b3789edf82a5" />
+  </Folder>
+  <Folder Name="/1 - Services/" />
+  <Folder Name="/2 - Application/">
+    <Project Path="ProjetoModeloDDD.Application/ProjetoModeloDDD.Application.csproj" Id="a13e401a-fac0-468e-b00e-bc4dd0897185" />
+  </Folder>
+  <Folder Name="/3 - Domain/">
+    <Project Path="ProjetoModeloDDD.Domain/ProjetoModeloDDD.Domain.csproj" Id="6a85bc31-65af-48c5-8c4b-82a37b900148" />
+  </Folder>
+  <Folder Name="/4 - Infra/" />
+  <Folder Name="/4 - Infra/4.1 - Data/">
+    <Project Path="ProjetoModeloDDD.Infra.Data/ProjetoModeloDDD.Infra.Data.csproj" Id="d8cc7fb0-5490-4ad7-b14c-9b7a240fe673" />
+  </Folder>
+  <Folder Name="/4 - Infra/4.2 - CrossCutting/" />
+</Solution>

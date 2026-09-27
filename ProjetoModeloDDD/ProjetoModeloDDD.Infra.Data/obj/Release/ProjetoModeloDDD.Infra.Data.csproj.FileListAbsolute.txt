@@ -1,0 +1,14 @@
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Infra.Data.dll.config
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Infra.Data.dll
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Infra.Data.pdb
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.dll
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Domain.dll
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\ProjetoModeloDDD.Domain.pdb
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.xml
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.csproj.AssemblyReference.cache
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoM.F5163234.Up2Date
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.dll
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Release\ProjetoModeloDDD.Infra.Data.pdb

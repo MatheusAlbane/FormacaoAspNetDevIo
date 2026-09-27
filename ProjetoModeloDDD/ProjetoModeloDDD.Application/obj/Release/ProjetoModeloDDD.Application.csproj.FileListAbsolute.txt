@@ -1,0 +1,6 @@
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Release\ProjetoModeloDDD.Application.dll
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Release\ProjetoModeloDDD.Application.pdb
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Release\ProjetoModeloDDD.Application.csproj.AssemblyReference.cache
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Release\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Release\ProjetoModeloDDD.Application.dll
+D:\Desenvolvimento\FormacaoAspNetDevIo\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Release\ProjetoModeloDDD.Application.pdb
